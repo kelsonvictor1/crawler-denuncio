@@ -1,0 +1,865 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]><html class="ie ie6 no-js" lang="pt-BR" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><![endif]-->
+<!--[if IE 7 ]><html class="ie ie7 no-js" lang="pt-BR" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><![endif]-->
+<!--[if IE 8 ]><html class="ie ie8 no-js" lang="pt-BR" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><![endif]-->
+<!--[if IE 9 ]><html class="ie ie9 no-js" lang="pt-BR" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!--><html class="no-js" lang="pt-BR" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://ogp.me/ns#"><!--<![endif]-->
+<!-- the "no-js" class is for Modernizr. -->
+
+<head>
+	
+	<meta charset="iso-8859-1" />
+		
+	<title>Busca do Denuncio - reclamações de consumidores insatisfeitos.</title>
+	
+		<meta name="description" content="" />			
+		<meta name="keywords" content="" />			
+		<meta name="og:title" content="Busca do Denuncio - reclama&ccedil;&otilde;es de consumidores insatisfeitos." />			
+		<meta name="og:description" content="" />			
+		<meta name="og:type" content="article" />			
+		<meta name="og:url" content="http://www.denuncio.com.br/busca/?search=americanas&amp;x=0&amp;y=0" />			
+		<meta name="og:image" content="http://www.denuncio.com.br/_resources/media/img/default/img_facebook.png" />			
+	<meta property="fb:admins" content="100000423761822" />	
+<meta property='fb:app_id' content='474059649328112' />
+
+
+	<link type="application/rss+xml" rel="alternate" title="Denuncio - Últimas Notícias" href="http://www.denuncio.com.br/rss/ultimas/" />
+	<link type="application/rss+xml" rel="alternate" title="Denuncio - Mais lidas" href="http://www.denuncio.com.br/rss/most-read/" />
+	<link type="application/rss+xml" rel="alternate" title="Denuncio - Denúncias" href="http://www.denuncio.com.br/rss/denuncias/" />
+	<link type="application/rss+xml" rel="alternate" title="Denuncio - Ranking das empresas mais denunciadas" href="http://www.denuncio.com.br/rss/ranking/1/" />
+	<link type="application/rss+xml" rel="alternate" title="Denuncio - Ranking das empresas que mais respondem" href="http://www.denuncio.com.br/rss/ranking/2/" />
+	<link type="application/rss+xml" rel="alternate" title="Denuncio - Ranking das empresas que menos respondem" href="http://www.denuncio.com.br/rss/ranking/3/" />
+		
+		
+	<!-- shortcut icon -->
+	
+	<link rel="shortcut icon" href="/_resources/media/img/default/favicon.ico" />
+	<link rel="apple-touch-icon" href="/_resources/media/img/default/apple-touch-icon.png">	
+	<!-- styles -->
+	<link rel="stylesheet" href="/_resources/stylesheet/html5/reset-1.0.0.css"/>		
+<link rel="stylesheet" href="/_resources/stylesheet/bootstrap/css/bootstrap.css" />
+<link rel="stylesheet" href="/_resources/scripts/fancybox/jquery.fancybox.1.3.4.css" />
+
+
+<link rel="stylesheet" href="/_resources/stylesheet/default/jquery.jqtransform-1.0.0.css" />
+<link rel="stylesheet" href="/_resources/stylesheet/default/jquery.validationEngine-1.0.0.css" />
+<link rel="stylesheet" href="/_resources/stylesheet/default/xhtml-1.0.0.css" />
+<link rel="stylesheet" href="/_resources/stylesheet/default/layout-1.0.0.css" />
+<link rel="stylesheet" href="/_resources/stylesheet/default/form-1.0.1.css" />
+<link rel="stylesheet" href="/_resources/stylesheet/default/content-1.0.2.css" />
+<link rel="stylesheet" href="/_resources/stylesheet/default/print-1.0.0.css" />		
+<link rel="stylesheet" href="/_resources/stylesheet/jquery/jquery.easy-pie-chart.css" />	
+<link rel="stylesheet" href="/_resources/stylesheet/ui-lightness/jquery-ui-1.10.1.custom.css" />				
+		
+	<!-- scripts -->	
+	<script src="/_resources/scripts/jquery/jquery-1.8.3.min.js"></script>
+<script src="/_resources/scripts/modernizr/modernizr-2.0.6.min.js"></script>
+<script src="/_resources/scripts/jquery/bootstrap.min.js"></script>
+<script src="/_resources/scripts/jquery/jquery-ui-1.10.1.custom.min.js"></script>
+
+<script src="https://www.google.com/jsapi"></script> 	
+
+<script src="/_resources/scripts/jquery/jquery.jqtransform.js"></script>
+<script src="/_resources/scripts/jquery/jquery.validationEngine-pt.js"></script>
+<script src="/_resources/scripts/jquery/jquery.validationEngine.js"></script>
+<script src="/_resources/scripts/jquery/jquery.maskedinput-1.3.min.js"></script>
+
+<script type="text/javascript" src="//use.typekit.net/qhy8dla.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<script src="/_resources/scripts/jquery/jquery.easing.pack.js"></script>
+<script src="/_resources/scripts/fancybox/jquery.fancybox.1.3.4.pack.js"></script>			
+<script src="/_resources/scripts/jquery/jquery.easy-pie-chart.js"></script>			
+<script src="/_resources/scripts/jquery/script_20140203.js"></script>
+		
+	<script type="text/javascript" src="http://partner.googleadservices.com/gampad/google_service.js"></script>
+<script type="text/javascript">
+	  GS_googleAddAdSenseService("ca-pub-2709492113448052");
+	  GS_googleEnableAllServices();
+</script>
+<script type="text/javascript">
+	  GA_googleAddSlot("ca-pub-2709492113448052", "denuncio_bannerbottom_300x250");
+	  GA_googleAddSlot("ca-pub-2709492113448052", "denuncio_bannerright_160x600");
+	  GA_googleAddSlot("ca-pub-2709492113448052", "denuncio_bannerleft_300x600");
+	  GA_googleAddSlot("ca-pub-2709492113448052", "denuncio_bannernews_120x240");
+	  GA_googleAddSlot("ca-pub-2709492113448052", "denuncio_superbanner_728x90");
+	  GA_googleAddSlot("ca-pub-2709492113448052", "denuncio_bannernews_300x250");
+	  GA_googleAddSlot("ca-pub-2709492113448052", "denuncio_bannerright_300x600");
+</script>
+<script type="text/javascript">
+	GA_googleFetchAds();
+</script>
+	
+</head>
+
+<body class="int">
+
+	<div id="fb-root"></div>
+<script>
+  (function(d){
+     var js, id = 'facebook-jssdk', ref = d.getElementsByTagName('script')[0];
+     if (d.getElementById(id)) {return;}
+     js = d.createElement('script'); js.id = id; js.async = true;
+     js.src = "//connect.facebook.net/pt_BR/all.js#xfbml=1&appId=474059649328112";
+     ref.parentNode.insertBefore(js, ref);
+   }(document));
+</script>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'pt-BR';}
+</script>	
+	<div id="lay-all">	
+	
+		<div class="bar-top"> 
+	<div class="center clearfix">
+		<div class="menu-bar">
+			<div class="item"><div class="fb-like" data-href="http://www.facebook.com/denuncio" data-send="false" data-layout="button_count" data-width="100" data-show-faces="false"></div></div>
+			<div class="item"><a href="https://twitter.com/denuncio" class="twitter-follow-button" data-show-count="false" data-lang="pt">Seguir @denuncio</a>
+			<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script></div>
+			
+							<div class="item"><a href="/consumidores/">Entrar</a></div>
+				<div class="item"><a href="/consumidores/cadastro/">Ainda não sou cadastrado</a></div>
+					</div>
+	</div>
+</div>
+
+<div class="head-site">	
+	<div class="center clearfix">		<div class="clearfix">
+			<div class="logo">
+				<a href="/"><img src="/_resources/media/img/default/denuncio.png" title="Denuncio" alt="Denuncio" /></a>			</div>
+			<div class="right-top">
+				<div class="menu-head">
+					<ul>
+													<li><a href="/"><img src="/_resources/media/img/default/ico_home.png" title="" alt="" /> Início</a></li>
+												
+													<li><a href="/denuncias/">Denúncias</a></li>
+												
+													<li><a href="/empresas/">Empresas</a></li>
+												
+													<li><a href="/empresas/rankings/">Rankings</a></li>
+												
+													<li><a href="/empresas/comparar/">Comparar</a></li>
+												
+													<li><a href="/noticias/">Notícias</a></li>
+												
+													<li><a href="/contato/">Contato</a></li>
+											</ul>
+				</div>
+				
+				<div class="busca clearfix">
+					<div class="input-append">
+						<form action="/busca/" method="get">
+					  		<input id="appendedInputButton" name="search" id="search" placeholder="nome da empresa ou serviço" type="text" value="americanas" />
+					  		<input class="bt-send" type="image" src="/_resources/media/img/default/bt_buscar.png" />					  							  	
+					  	</form>					  						  
+					</div>									
+					
+					<div class="bt-busca-avancada"><a href="/busca-avancada/">Busca avançada</a></div>
+				</div>							
+			</div>
+		</div>
+		
+			</div>	
+</div>			
+		
+		<div class="lay-main ">
+				
+			
+							<div class="center main-int-large main-int clearfix">
+							
+				<nav class="lay-path">
+	<ul>
+	<li class="item-path"><a href="/">Início</a></li><li class="item-path">Busca</li>	</ul>
+</nav>						
+				
+								
+									<div class="left">
+									
+					
+		
+					
+											<div class="content-int-large">
+											
+<article class="search-list">	
+	<header>
+		<div class="tit-page">resultado da <span>pesquisa</span></div>			
+		<div class="tit-search">Buscando por <strong>americanas</strong></div>		
+	</header>
+		<div class="box box-company clearfix">			
+			<div class="tit-box-company tit-box-rankings">denúncias encontradas</div>
+			<ul class="list-search clearfix">			
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/entrega-de-produto-errado/31842/">Entrega de produto errado</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/ponto-frio-globex-utilidades-s-a/168/">Ponto Frio - Globex Utilidades S/A</a></div>
+							<div class="company-name"><a href="/denuncias/entrega/31803/">Entrega</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/ponto-frio-globex-utilidades-s-a/168/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/ponto-frio-globex-utilidades-s-a/168/">Ponto Frio - Globex Utilidades S/A</a></div>
+							<div class="company-name"><a href="/denuncias/entrega-do-produto/31802/">Entrega do produto</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/ponto-frio-globex-utilidades-s-a/168/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/desrespeito-com-consumidor/31610/">DESRESPEITO COM CONSUMIDOR</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/quero-trocar-o-microondas-que-veio-com-defeito/31574/">Quero trocar o Microondas que veio com defeito</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/pank/2005/">Pank!</a></div>
+							<div class="company-name"><a href="/denuncias/material-nao-entregue-e-recusa-em-devolver-o-dinheiro/31562/">material não entregue e recusa em devolver o dinheiro</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/pank/2005/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/propaganda-enganosa/31449/">propaganda enganosa</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/cobranca-indevida-sem-devolucao/31167/">Cobrança indevida sem devolução</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/propaganda-enganosa-anuncio-de-frete-gratis-nao-honrado/31137/">PROPAGANDA ENGANOSA - Anúncio de Frete Grátis não Honrado</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/mercadoria-nao-entregue-no-endereco-contratado/31113/">MERCADORIA NÃO ENTREGUE NO ENDEREÇO CONTRATADO</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/mapfre-vera-cruz-seguradora-s-a/213/">Mapfre Vera Cruz Seguradora S/A</a></div>
+							<div class="company-name"><a href="/denuncias/seguro-de-garantia-estendida/31105/">SEGURO DE GARANTIA ESTENDIDA</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/mapfre-vera-cruz-seguradora-s-a/213/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/extencao-de-garantia/31104/">EXTENÇAO DE GARANTIA.</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/descaso/31092/">Descaso</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/descaso-com-o-consumidor/31066/">Descaso com o consumidor</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/propaganda-enganosa-e-descaso/31048/">Propaganda Enganosa e Descaso</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/propaganda-enganosa/31003/">Propaganda Enganosa !</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/nota-fiscal-2-via/30956/">Nota fiscal 2º via</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/livraria-saraiva-s-a/241/">Livraria Saraiva S/A</a></div>
+							<div class="company-name"><a href="/denuncias/produto-pago-porem-nao-foi-entregue/30834/">Produto pago porém não foi entregue</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/livraria-saraiva-s-a/241/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/nao-entrega-no-prazo-e-no-endereco-contratado/30721/">NÃO ENTREGA NO PRAZO E NO ENDEREÇO CONTRATADO</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/philco-britania-eletrodomesticos-ltda/1167/">Philco - Britânia Eletrodomésticos Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/micro-ondas-philco-modelo-pme25-nao-presta/30562/">micro-ondas PHILCO MODELO PME25 NÃO PRESTA.</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/philco-britania-eletrodomesticos-ltda/1167/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/motorola-industrial-ltda/208/">Motorola Industrial Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/descaso-da-motorola-em-pernambuco/30486/">DESCASO DA MOTOROLA EM PERNAMBUCO</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/motorola-industrial-ltda/208/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/mondial-eletrodomesticos-mk-eletrodomesticos-ltda/48/">Mondial Eletrodomésticos -  MK Eletrodomésticos LTDA   </a></div>
+							<div class="company-name"><a href="/denuncias/air-fryer-digital-premium/30460/">Air Fryer digital premium</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/mondial-eletrodomesticos-mk-eletrodomesticos-ltda/48/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/wal-mart-brasil-ltda/154/">Wal-Mart Brasil Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/socorro-o-wal-mart-esta-me--ndo/30455/">SOCORRO, O WAL MART ESTA ME <i>[alterado automaticamente pelo denuncio]</i>NDO !!!</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/wal-mart-brasil-ltda/154/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/wal-mart-brasil-ltda/154/">Wal-Mart Brasil Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/estou-sendo--do-pelo-wal-mart/30454/">ESTOU SENDO <i>[alterado automaticamente pelo denuncio]</i>DO PELO WAL MART</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/wal-mart-brasil-ltda/154/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/celular-com-defeito/30422/">Celular com defeito</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/vendeu-e-nao-entregou/30200/">vendeu e não entregou</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/livraria-saraiva-s-a/241/">Livraria Saraiva S/A</a></div>
+							<div class="company-name"><a href="/denuncias/nao-cumpre-prazo-e-nao-e-transparente-sobre-a-situacao-da-entrega/30096/">Não cumpre prazo e não é transparente sobre a situação da entrega</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/livraria-saraiva-s-a/241/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/motorola-industrial-ltda/208/">Motorola Industrial Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/desrespeito-com-o-consumidor/29942/">Desrespeito com o consumidor</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/motorola-industrial-ltda/208/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/wal-mart-brasil-ltda/154/">Wal-Mart Brasil Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/walmart-nao-compre-la-jamais/29827/">walmart não compre lá jamais</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/wal-mart-brasil-ltda/154/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/paguei-pela-entrega-a-jato-e-nao-cumpriram/29759/">paguei pela entrega a jato e nao cumpriram</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/girafa-comercio-eletronico-ltda/882/">Girafa Comércio Eletrônico Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/girafa-nunca-comprem-neste-site/29717/">Girafa - Nunca comprem neste Site</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/girafa-comercio-eletronico-ltda/882/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/falta-de-respeito-produto-com-defeito/29686/">FALTA DE RESPEITO - PRODUTO COM DEFEITO</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/extra-com/1094/">Extra.com</a></div>
+							<div class="company-name"><a href="/denuncias/sofa-apresentou-defeito-devido-a-baixa-qualidade-produto-so-dura-3-meses/29570/">Sofa apresentou defeito devido a baixa qualidade produto so dura 3 meses</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/extra-com/1094/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/cce-informatica-televisores-lcd-led-e-celulares-digibras-industria-do-brasil-s-a/185/">CCE Informática, Televisores LCD/LED e Celulares - Digibras Indústria do Brasil S/A</a></div>
+							<div class="company-name"><a href="/denuncias/atraso-ressarcimento/29414/">ATRASO RESSARCIMENTO</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/cce-informatica-televisores-lcd-led-e-celulares-digibras-industria-do-brasil-s-a/185/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/entrega-nao-efetuada/29375/">entrega não efetuada</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lg-electronics-de-sao-paulo-ltda/80/">LG Electronics de São Paulo Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/tv-aumenta-sozinha-ao-muda-de-canal/29246/">tv aumenta sozinha ao muda de canal</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lg-electronics-de-sao-paulo-ltda/80/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/ponto-frio-globex-utilidades-s-a/168/">Ponto Frio - Globex Utilidades S/A</a></div>
+							<div class="company-name"><a href="/denuncias/comprei-e-nao-recebi/29115/">Comprei e Não Recebi</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/ponto-frio-globex-utilidades-s-a/168/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-colombo-s-a/191/">Lojas Colombo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/entrega-nao-realizada/29104/">Entrega não realizada</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-colombo-s-a/191/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/produto-nao-entregue-black-friday/29078/">Produto não entregue - Black Friday</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/propagando-enganosa-e-mal-atendimento/29036/">Propagando enganosa e mal atendimento</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/compre-hoje-e-receba-no-dia-de-sao-nunca/29014/">Compre Hoje e receba no dia de São Nunca</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/submarino-s-a/25/">Submarino S/A</a></div>
+							<div class="company-name"><a href="/denuncias/nao-recebi-o-produto-e-nao-querem-cancelar-o-pedido/29006/">Não recebi o produto e não querem cancelar o pedido</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/submarino-s-a/25/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/comprei-um-produto-nas-lojas-americanas-mais-ate-agora-nao-recebi-ja-faz-mais-de-2-meses/28964/">comprei um produto nas lojas americanas mais ate agora não recebi já faz mais de 2 meses?</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/wal-mart-brasil-ltda/154/">Wal-Mart Brasil Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/empresa-de-fundo-de-quintal/28894/">Empresa de fundo de quintal</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/wal-mart-brasil-ltda/154/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/segunda-via-do-cartao-de-credito/28849/">Segunda via do Cartão de  Crédito</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-colombo-s-a/191/">Lojas Colombo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/descaso-total-com-o-consumidor/28843/">DESCASO TOTÁL COM O CONSUMIDOR </a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-colombo-s-a/191/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/samsung-eletronica-da-amazonia-ltda/16/">Samsung Eletrônica da Amazônia Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/quase-quatro-anos-depois-eu-ainda-nao-fui-ressarcido/28792/">Quase quatro anos depois eu ainda não fui ressarcido!</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/samsung-eletronica-da-amazonia-ltda/16/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/modelo-de-celular-enviado-errado/28709/">MODELO DE CELULAR ENVIADO ERRADO</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/epson-do-brasil-industria-e-comercio-ltda/260/">Epson do Brasil Indústria e Comércio Ltda</a></div>
+							<div class="company-name"><a href="/denuncias/propaganda-enganosa-cartuchos-k301-e-k101/28603/">Propaganda enganosa - CARTUCHOS K301 e K101</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/epson-do-brasil-industria-e-comercio-ltda/260/">Denunciar empresa</a>					</li>						
+									<li>
+						<div class="item-list-search">
+							<div class="company-cat-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+							<div class="company-name"><a href="/denuncias/propaganda-enganosa/28424/">PROPAGANDA ENGANOSA</a></div>
+						</div>
+						<a class="btn btn-small btn-warning btn-white btn-search-denunciar" href="/denuncias/nova/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Denunciar empresa</a>					</li>						
+							</ul>
+		</div>		
+		
+			<div class="box box-company clearfix">			
+			<div class="tit-box-company tit-box-rankings">notícias encontradas</div>
+			<ul class="list-search">			
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 13 de outubro de 2014, às 16h54min</span></div>
+							
+						<div><a href="/noticias/lojas-americanas-deve-pagar-r-5-2-mil-de-indenizacao-por-vender-tablet-defeituoso/20627/">Lojas Americanas deve pagar R$ 5,2 mil de indenização por vender tablet defeituoso </a></div>
+													<div>O juiz da 2ª Vara da Comarca de Barbalha (a 525 Km de Fortaleza), Leonardo Afonso Franco de Freitas, condenou a rede Lojas Americanas S/A a pagar indenização de R$ 5.068,00 para servidora pública que comprou tablet com defeito. Além disso, deverá restituir o valor de R$ 227,15 pago pelo produto.
+</div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 10 de julho de 2014, às 13h25min</span></div>
+							
+						<div><a href="/noticias/lojas-americanas-deverao-indenizar-cliente-abordada-apos-disparo-de-alarme/20488/">Lojas Americanas deverão indenizar cliente abordada após disparo de alarme</a></div>
+													<div>O estabelecimento comercial Lojas Americanas S/A foi condenado ao pagamento de R$ 5 mil a uma cliente que foi abordada pelos seguranças ao sair da loja, devido ao disparo do alarme do sistema antifurto. Uma funcionária do caixa esqueceu-se de retirar a tarja magnética de um produto comprado por ela. O valor será atualizado com juros e correção monetária. A decisão foi proferida pelo juiz Brasílio Antônio Guerra, quando este era substituto na Segunda Vara Cível de Caruaru, e foi publicada no Diário de Justiça Eletrônico desta segunda-feira (07/07). A empresa pode recorrer da decisão.</div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 14 de abril de 2014, às 15h54min</span></div>
+							
+						<div><a href="/noticias/lojas-americanas-e-condenada-por-dano-moral/20407/">Lojas Americanas é condenada por dano moral</a></div>
+													<div>A empresa varejista Lojas Americanas S.A. foi condenada pelo Juiz Emerson Cajango, da 21ª Vara Cível da Capital, a pagar indenização de R$ 8 mil a Magno de Souza Sebalho por danos morais. (Código do Processo: 722109)</div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 14 de janeiro de 2014, às 10h22min</span></div>
+							
+						<div><a href="/noticias/empresa-deve-indenizar-estudante-que-nao-recebeu-produtos-comprados-pela-internet/20218/">Empresa deve indenizar estudante que não recebeu produtos comprados pela Internet</a></div>
+													<div>A B2W Companhia Global de Varejo, empresa que revende produtos da Lojas Americanas, foi condenada a pagar indenização de R$ 6.204,69 para estudante que não recebeu produtos comprados pela Internet. A decisão é do juiz Lúcio Alves Cavalcante, em respondência pela Vara Única da Comarca de Hidrolândia, distante 252 km de Fortaleza. </div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 13 de dezembro de 2013, às 11h59min</span></div>
+							
+						<div><a href="/noticias/bombom-com-larvas-gera-indenizacao/20150/">Bombom com larvas gera indenização</a></div>
+													<div>Os bombons que M.H.S. comprou para uma amiga continham larvas em seu interior. Por isso, a fabricante do produto, Kraft Foods Brasil, e a vendedora, Lojas Americanas, deverão ressarci-la, solidariamente, em R$12 mil por danos morais. A determinação do juiz da comarca de Muriaé foi mantida pela decisão da 17ª Câmara Cível do Tribunal de Justiça de Minas Gerais (TJMG).
+
+ </div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/magazines/">Magazines</a></span><span class="news-dt"> - 28 de novembro de 2013, às 13h40min</span></div>
+							
+						<div><a href="/noticias/tjrj-condena-lojas-americanas-a-indenizar-menores-por-confusao-em-tarde-de-autografos/20082/">TJRJ condena Lojas Americanas a indenizar menores por confusão em tarde de autógrafos</a></div>
+													<div>A 21ª Câmara Cível do Tribunal de Justiça do Estado do Rio de Janeiro manteve sentença que condenou a empresa Lojas Americanas a pagar uma indenização por danos morais, de R$ 3 mil, a dois menores que, acompanhados pela responsável, não conseguiram nem chegar perto do grupo mexicano Rebeldes em uma tarde de autógrafos promovida pela rede de lojas. Os pequenos fãs compraram um CD do grupo, pré-requisito para conseguir tirar foto com os integrantes e obter um autógrafo, porém a falta de organização no local e a fila enorme inviabilizaram o objetivo dos menores.  </div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 25 de outubro de 2013, às 12h04min</span></div>
+							
+						<div><a href="/noticias/americanas-com-e-condenada-a-indenizar-professor-que-nao-recebeu-produto-comprado-pela-internet/19914/">Americanas.com é condenada a indenizar professor que não recebeu produto comprado pela internet </a></div>
+													<div>A Americanas.com (B2W  Companhia Global de Varejo) foi condenada a pagar indenização moral de R$ 3 mil para o professor P.R.G., que não recebeu produto comprado pela internet. A decisão é da juíza Gerana Celly Dantas da Cunha Veríssimo, da 2ª Vara da Comarca de Morada Nova, distante 161 km de Fortaleza. </div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 21 de agosto de 2013, às 15h32min</span></div>
+							
+						<div><a href="/noticias/consumidora-deve-ser-indenizada-por-falsa-acusacao-de-furto-em-loja/19612/">Consumidora deve ser indenizada por falsa acusação de furto em loja</a></div>
+													<div>As Lojas Americanas devem indenizar em R$ 8 mil, por danos morais, uma consumidora de Belo Horizonte que foi acusada de furto e revistada por seguranças. A decisão é da 16ª Câmara Cível do Tribunal de Justiça de Minas Gerais (TJMG).</div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/internet/">Internet</a></span><span class="news-dt"> - 15 de agosto de 2013, às 22h43min</span></div>
+							
+						<div><a href="/noticias/google-facebook-e-microsoft-negam-acesso-irrestrito-dos-eua-a-informacoes-de-usuarios/19566/">Google, Facebook e Microsoft negam acesso irrestrito dos EUA a informações de usuários</a></div>
+													<div>Brasília - Representantes do Google, da Microsoft e do Facebook negaram hoje (15), no Senado, que as empresas tenham dado ao governo dos Estados Unidos "acesso irrestrito" ou "de grande escala" a informações de seus clientes. Eles participaram de audiência pública para debater as denúncias de espionagem norte-americana a e-mails e ligações telefônicas de brasileiros.</div>
+											</li>		
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/noticias/indenizacoes/">Indenizações</a></span><span class="news-dt"> - 08 de agosto de 2013, às 16h11min</span></div>
+							
+						<div><a href="/noticias/lojas-americanas-e-gradiente-devem-indenizar-cliente-por-celular-defeituoso/19517/">Lojas Americanas e Gradiente devem indenizar cliente por celular defeituoso </a></div>
+													<div>A Lojas Americanas S/A e a Gradiente (atualmente denominada IGB Eletrônica S/A), foram condenadas a pagar indenização de R$ 5 mil para a atendente A.D.C., que adquiriu celular com defeito. A decisão é do juiz Fernando Cézar Barbosa de Souza, titular da 2ª Vara Cível da Comarca de Fortaleza. </div>
+											</li>		
+							</ul>
+		</div>
+		
+			<div class="box box-company clearfix">			
+			<div class="tit-box-company tit-box-rankings">Empresas</div>
+			<ul class="list-search">			
+									<li>
+													<div class="cat"><span class="cat-name-list"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Magazines</a></span></div>
+												<div class="company-name"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+					</li>
+								</ul>
+		</div>
+		
+		
+	<div class="banner-detail"><script type="text/javascript"> 
+	GA_googleFillSlot("denuncio_bannerbottom_300x250");
+</script></div>
+					</div>
+					
+					<div class="col-right">
+							<div class="banner-right">		
+		<script type="text/javascript"> 
+	GA_googleFillSlot("denuncio_bannerbottom_300x250");
+</script>	</div>
+
+
+			<div class="box clearfix">
+			<div class="tit-box"><a href="/noticias/">últimas NOTÍCIAS</a></div>
+			<div class="content-box">
+				<ul>
+											<li>
+							<div class="date">07 de novembro de 2014, às 17h37min</div>
+							<div><a href="/noticias/curso-de-pos-graduacao-e-condenado-por-propaganda-enganosa/20649/">Curso de pós-graduação é condenado por propaganda enganosa</a></div>
+						</li>
+												<li>
+							<div class="date">05 de novembro de 2014, às 11h20min</div>
+							<div><a href="/noticias/casal-que-teve-viagem-de-lua-de-mel-em-cruzeiro-maritimo-cancelada-sera-indenizado/20648/">Casal que teve viagem de lua de mel em cruzeiro marítimo cancelada será indenizado</a></div>
+						</li>
+												<li>
+							<div class="date">04 de novembro de 2014, às 11h35min</div>
+							<div><a href="/noticias/mantida-decisao-que-condena-empresa-aerea-a-pagar-r-5-4-mil-por-ma-prestacao-de-servico/20647/">Mantida decisão que condena empresa aérea a pagar R$ 5,4 mil por má prestação de serviço </a></div>
+						</li>
+									
+				</ul>
+			</div>
+		</div>
+		
+			<div class="box clearfix">
+			<div class="tit-box"><a href="/denuncias/">denúncias RECENTES</a></div>
+			<div class="content-box">
+				<ul>
+											<li>
+							<div class="date">07 de novembro de 2014, às 20h38min</div>
+							<div><a href="/denuncias/descaso-no-atendimento/31982/">Descaso no atendimento</a></div>
+						</li>
+												<li>
+							<div class="date">07 de novembro de 2014, às 18h51min</div>
+							<div><a href="/denuncias/nao-entregam-meu-produto/31981/">Não entregam meu produto</a></div>
+						</li>
+												<li>
+							<div class="date">07 de novembro de 2014, às 18h24min</div>
+							<div><a href="/denuncias/produto-nao-entregue/31980/">PRODUTO NAO ENTREGUE</a></div>
+						</li>
+									
+				</ul>
+			</div>
+		</div>
+	
+	<div class="box clearfix">
+		<div id="denunciadas-right" class="realizadas">
+			<div class="tit-box"><a href="/empresas/mais-denunciadas/"><span>MAIS DENUNCIADAS</span></a></div>
+			<div class="content-box">
+				<ul>
+											<li class="clearfix">
+							<div class="n-ranking"><span>1</span></div>
+							<div class="name-ranking"><a href="/empresas/fatordigital-net/331/">FatorDigital.net</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>2</span></div>
+							<div class="name-ranking"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>3</span></div>
+							<div class="name-ranking"><a href="/empresas/wal-mart-brasil-ltda/154/">Wal-Mart Brasil Ltda</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>4</span></div>
+							<div class="name-ranking"><a href="/empresas/comprafacil-com-sociedade-comercial-e-importadora-hermes-s-a/90/">Comprafácil.com - Sociedade Comercial e Importadora Hermes S/A</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>5</span></div>
+							<div class="name-ranking"><a href="/empresas/oi-fixo-oi-tv-e-oi-movel/5/">Oi Fixo, Oi Tv e Oi Móvel</a></div>
+						</li>
+														
+				</ul>
+							
+				<div class="link-more"><span class="ico bg"></span><span><a href="/empresas/mais-denunciadas/">Veja ranking completo</a></span></div>
+			</div>
+		</div>
+		
+		<div id="respondidas-right" class="atendidas">
+			<div class="tit-box"><a href="/empresas/mais-atenciosas/"><span>MAIS RESPONDEM</span></a></div>
+			<div class="content-box">
+				<ul>
+											<li class="clearfix">
+							<div class="n-ranking"><span>1</span></div>
+							<div class="name-ranking"><a href="/empresas/lojas-americanas-americanas-com-b2w-companhia-global-do-varejo-s-a/26/">Lojas Americanas / Americanas.com - B2W Companhia Global do Varejo S/A</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>2</span></div>
+							<div class="name-ranking"><a href="/empresas/fatordigital-net/331/">FatorDigital.net</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>3</span></div>
+							<div class="name-ranking"><a href="/empresas/wal-mart-brasil-ltda/154/">Wal-Mart Brasil Ltda</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>4</span></div>
+							<div class="name-ranking"><a href="/empresas/comprafacil-com-sociedade-comercial-e-importadora-hermes-s-a/90/">Comprafácil.com - Sociedade Comercial e Importadora Hermes S/A</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>5</span></div>
+							<div class="name-ranking"><a href="/empresas/planeta-ofertas/570/">Planeta Ofertas </a></div>
+						</li>
+														
+				</ul>
+							
+				<div class="link-more"><span class="ico bg"></span><span><a href="/empresas/mais-atenciosas/">Veja ranking completo</a></span></div>
+			</div>
+		</div>
+		
+		<div id="resolvidas-right" class="resolvidas">
+			<div class="tit-box"><a href="/empresas/melhores-indices-solucao/"><span>MELHORES ÍNDICES</span></a></div>
+			<div class="content-box">
+				<ul>
+											<li class="clearfix">
+							<div class="n-ranking"><span>1</span></div>
+							<div class="name-ranking"><a href="/empresas/medskin-medical-ltda/1476/">Medskin Medical Ltda</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>2</span></div>
+							<div class="name-ranking"><a href="/empresas/wal-mart-brasil-ltda/154/">Wal-Mart Brasil Ltda</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>3</span></div>
+							<div class="name-ranking"><a href="/empresas/carrefour-comercio-e-industria-ltda/9/">Carrefour Comércio e Indústria Ltda</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>4</span></div>
+							<div class="name-ranking"><a href="/empresas/submarino-s-a/25/">Submarino S/A</a></div>
+						</li>
+												<li class="clearfix">
+							<div class="n-ranking"><span>5</span></div>
+							<div class="name-ranking"><a href="/empresas/pontofrio-com-comercio-eletronico-s-a/123/">Pontofrio.com Comércio Eletrônico S.A.</a></div>
+						</li>
+														
+				</ul>
+							
+				<div class="link-more"><span class="ico bg"></span><span><a href="/empresas/melhores-indices-solucao/">Veja ranking completo</a></span></div>
+			</div>
+		</div>
+			
+		<div class="pag-box clearfix">
+			<div id="pag-1" class="item-pag on"></div>
+			<div id="pag-2" class="item-pag"></div>
+			<div id="pag-3" class="item-pag"></div>
+		</div>			
+	</div>	
+
+<div class="item-right like-box">
+	<div class="fb-like-box" data-href="http://www.facebook.com/denuncio" data-show-border="false" data-width="296" data-show-faces="true" data-stream="false" data-border-color="white" data-header="false"></div>
+</div>
+<div class="banner-right banner-center">		
+	<script type="text/javascript"> 
+	GA_googleFillSlot("denuncio_bannerleft_300x600");
+</script></div>
+<div id="newsletter-right">
+	<p>Receba novidades por e-mail:</p>
+<form class="form-horizontal newsletter" role="form" id="form-newsletter" action="/email/add/" onsubmit="return false;" enctype="multipart/form-data" method="post">
+  <div class="form-group">
+    <div class="col-sm-10">
+      <input type="text" name="NAME" class="form-control" id="NAME" class="validate[required]" placeholder="Digite seu Nome">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-10">
+     <input type="email" name="EMAIL" class="form-control" id="EMAIL" class="validate[required,custom[email]]" placeholder="Digite seu E-mail">
+    </div>
+  </div>
+  <div class="form-group">
+    <div class="col-sm-offset-2 col-sm-10">
+      <button type="submit" class="btn btn-default">Ok</button>
+    </div>
+  </div>
+</form>
+<header><img src="/_resources/media/img/default/denuncio.png" width="50"> <p>FIQUE SEMPRE INFORMADO!</p> </header>
+
+<script type="text/javascript">
+$(function() {	
+	
+	$("#form-newsletter").submit(function () {
+		name = $('#NAME').val();
+		email = $('#EMAIL').val();
+		
+		if (name.length <= 0) {
+			alert('O nome é obrigatório.');
+			return false;
+		} 
+
+		if (email.length <= 0) {
+			alert('O e-mail é obrigatório.');
+			return false;
+		}
+
+		$.ajax({
+	           	type: "POST",
+	           	url: $("#form-newsletter").attr('action'),
+	           	data: $("#form-newsletter").serialize()
+	         }).done(function( msg ) {
+	          	$("#form-newsletter")[0].reset();
+	           	alert( msg );
+	    	});
+		
+		
+     });
+});
+</script>
+</div>		
+					</div>
+					
+				</div>
+			</div>	
+			<div class="border-bottom-main"></div>
+		</div>
+		
+		<div class="footer">
+	<div class="center clearfix">
+		
+		<div class="col1">
+			<h2>Denúncias</h2>
+			
+			<ul>
+				<li><a href="/denuncias/realizadas/">Pendentes</a></li>
+				<li><a href="/denuncias/respondidas/">Respondidas</a></li>
+				<li><a href="/denuncias/avaliadas/">Avaliadas</a></li>				
+				<li><a href="/denuncias/nova/">Faça sua denúncia</a></li>
+				<li><a href="/como-funciona/">Como funciona</a></li>				
+			</ul>
+		</div>
+		
+		<div class="col1">
+			<h2>Empresas</h2>
+			
+			<ul>
+				<li><a href="/empresas/cadastrar/">Cadastrar empresa</a></li>
+				<li><a href="/empresas/citadas/">Empresas citadas</a></li>
+				<li><a href="/empresas/rankings/">Rankings</a></li>	
+				<li><a href="/empresas/comparar/">Comparar</a></li>	
+				<li><a href="/empresas/casos-de-sucesso/">Casos de sucesso</a></li>	
+				<li><a href="/empresas/selos-de-qualidade/">Como funciona</a></li>			
+			</ul>
+		</div>
+		
+		<div class="col1">
+			<h2>Novidades</h2>
+			
+			<ul>
+				<li><a href="/noticias/">Notícias</a></li>
+				<li><a href="/direito-consumidor/">Direito do consumidor</a></li>
+							<li><a href="http://www.planalto.gov.br/ccivil_03/leis/l8078.htm" onclick="window.open('http://www.planalto.gov.br/ccivil_03/leis/l8078.htm', '_blank');return false;">Código de defesa do consumidor</a></li>
+			</ul>
+		</div>
+		
+		<div class="col-right">
+			<h2>O Portal</h2>
+			
+			<ul>
+				<li><a href="/sobre-o-denuncio/">Sobre o <span>Denuncio</span></a></li>
+				<li><a href="/divulgue/">Divulgue</a></li>
+				<li><a href="/politicas-de-privacidade/">Política de privacidade</a></li>
+				<li><a href="/termos-de-uso/">Termos de uso</a></li>
+				<li><a href="/contato/">Contato</a></li>
+			</ul>
+		</div>
+		
+	</div>
+	
+	<div class="center rodape clearfix">
+		<strong>Denuncio 2014</strong>. Reclamação de consumidores insatisfeitos.
+	</div>
+</div>	
+		
+		<script type="text/javascript">
+
+			  var _gaq = _gaq || [];
+			  _gaq.push(['_setAccount', 'UA-5450312-34']);
+			  _gaq.push(['_trackPageview']);
+			
+			  (function() {
+			    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			  })();
+		</script>		
+</body>
+</html>
